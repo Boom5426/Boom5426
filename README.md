@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <img src="weixin.jpg" alt="WeChat width"="100px">
     </td>
     <td align="center" width="50%">
