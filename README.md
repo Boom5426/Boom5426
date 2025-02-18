@@ -12,5 +12,5 @@
 
 
 <p align="center">
-    <img src="weixin.png" alt="WeChat" width="40%">
+    <img src="weixin.jpg" alt="WeChat" width="40%">
 </p>
