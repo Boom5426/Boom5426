@@ -9,3 +9,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Boli-trainee/count.svg" />
 </p>
+
+
+<p align="center">
+    <img src="weixin.png" alt="WeChat" width="40%">
+</p>
