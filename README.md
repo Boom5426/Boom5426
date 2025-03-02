@@ -7,7 +7,7 @@
     </td>
     <td align="center" width="30%">
       <p>欢迎交流</p>
-      <img src="weixin.jpg" alt="WeChat width"="80px">
+      <img src="weixin.jpg" alt="WeChat width"="50px">
     </td>
   </tr>
 </table>
