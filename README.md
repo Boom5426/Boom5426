@@ -6,7 +6,7 @@
       <img src="https://profile-counter.glitch.me/Boli-trainee/count.svg" alt="Visitor count">
     </td>
     <td align="center" width="50%">
-      <p>欢迎交流 WeChat：Boom5426</p>
+      <p>欢迎交流 WeChat：Boom_5426</p>
       <!-- <img src="weixin.jpg" alt="WeChat" width="20px"> -->
     </td>
   </tr>
