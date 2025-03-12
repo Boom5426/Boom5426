@@ -1,13 +1,13 @@
-<table>
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <a href="https://scholar.google.com/citations?hl=zh-CN&user=y1myk_IAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br>
       Visitor count<br>
       <img src="https://profile-counter.glitch.me/Boli-trainee/count.svg" alt="Visitor count">
     </td>
-    <td align="center" width="90%">
-      <p>欢迎交流 WeChat：Boom5426 </p>
-<!--       <img src="weixin.jpg" alt="WeChat width"="20px"> -->
+    <td align="center" width="50%">
+      <p>欢迎交流 WeChat：Boom5426</p>
+      <!-- <img src="weixin.jpg" alt="WeChat" width="20px"> -->
     </td>
   </tr>
 </table>
