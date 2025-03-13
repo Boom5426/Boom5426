@@ -1,13 +1,10 @@
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://scholar.google.com/citations?hl=zh-CN&user=y1myk_IAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br>
-      Visitor count<br>
-      <img src="https://profile-counter.glitch.me/Boli-trainee/count.svg" alt="Visitor count">
-    </td>
-    <td align="center" width="50%">
-      <p>欢迎交流 WeChat：Boom_5426</p>
-      <!-- <img src="weixin.jpg" alt="WeChat" width="20px"> -->
-    </td>
-  </tr>
-</table>
+## Hi there 👋 This is **Bo Li**
+
+👨‍🎓 I am a Phd student in University of Macau. 👉 [Scholar]([https://scholar.google.com/citations?hl=zh-CN&user=y1myk_IAAAAJ&view_op=list_works&sortby=pubdate])
+
+🔭 Research Interests: AI4Science, AI-driven Drug Discovery, Phenotypic Drug Discovery.
+
+📫 How to reach me: yc47955@um.edu.mo
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boom5426&show_icons=true&theme=radical)
+
