@@ -1,6 +1,6 @@
 ## Hi there 👋 This is **Bo Li**
 
-👨‍🎓 I am a Phd student in University of Macau. 👉 [Scholar]([https://scholar.google.com/citations?hl=zh-CN&user=y1myk_IAAAAJ&view_op=list_works&sortby=pubdate])
+👨‍🎓 I am a Phd student in University of Macau. 👉 [Scholar](https://scholar.google.com/citations?hl=zh-CN&user=y1myk_IAAAAJ&view_op=list_works&sortby=pubdate)
 
 🔭 Research Interests: AI4Science, AI-driven Drug Discovery, Phenotypic Drug Discovery.
 
