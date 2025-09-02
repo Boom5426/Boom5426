@@ -4,7 +4,7 @@
 
 🔭 Research Interests: AI4Biology, AI Virtual Cell, Phenotypic Drug Discovery, Cell Painting.
 
-📫 How to reach me: yc47955@um.edu.mo
+📫 How to reach me: yc47955@um.edu.mo;  WeiChat: Boom_5426
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boom5426&show_icons=true&theme=radical)
 
