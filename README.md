@@ -9,6 +9,6 @@
 <table>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Boom5426&show_icons=true&theme=radical" /></td>
-    <td><img align="center" src="WeChat.png" /></td>
+    <td><img align="center" src="WeChat.png" width="200" /></td>
   </tr>
 </table>
