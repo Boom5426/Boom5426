@@ -5,9 +5,3 @@
 
 🔭 Research Interests: Computational Biology, AI Virtual Cell, Phenotypic Drug Discovery, Cell Painting.  
 📫 How to reach me: yc47955@um.edu.mo | WeChat: **Boom_5426**
-
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Boom5426&show_icons=true&theme=default" /></td>
-  </tr>
-</table>
