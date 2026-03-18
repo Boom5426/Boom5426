@@ -14,6 +14,8 @@
   <a href="https://orcid.org/0000-0003-0608-1502">ORCID</a>
   ·
   <a href="mailto:yc47955@um.edu.mo">Email</a>
+  ·
+  <a href="./WeChat.png">WeChat</a>
 </p>
 
 <p align="center">
@@ -30,11 +32,4 @@
   <img src="https://img.shields.io/badge/Public%20Repos-25-1d4ed8?style=flat-square" alt="Public Repositories 25" />
   <img src="https://img.shields.io/badge/Followers-39-1d4ed8?style=flat-square" alt="Followers 39" />
   <img src="https://img.shields.io/badge/Total%20Stars-309-1d4ed8?style=flat-square" alt="Total GitHub Stars 309" />
-</p>
-
-<p align="center">
-  <strong>Selected Projects</strong><br />
-  <a href="https://github.com/Boom5426/Awesome-Virtual-Cell">Awesome-Virtual-Cell</a>
-  ·
-  <a href="https://github.com/Boom5426/DrugClaw">DrugClaw</a>
 </p>
