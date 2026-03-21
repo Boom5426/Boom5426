@@ -22,6 +22,7 @@
   AI for Biomedicine · Agent Systems · Virtual Cell · Phenotypic Drug Discovery
 </p>
 
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/Citations-413-0b7285?style=flat-square" alt="Citations 413" />
   <img src="https://img.shields.io/badge/h--index-13-0b7285?style=flat-square" alt="h-index 13" />
@@ -33,3 +34,4 @@
   <img src="https://img.shields.io/badge/Followers-39-1d4ed8?style=flat-square" alt="Followers 39" />
   <img src="https://img.shields.io/badge/Total%20Stars-309-1d4ed8?style=flat-square" alt="Total GitHub Stars 309" />
 </p>
+-->
