@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  AI for Biomedicine · Agent Systems · Virtual Cell · Phenotypic Drug Discovery
+  AI for Biomedicine · Agent Systems · multimodal Virtual Cell · Phenotypic Drug Discovery
 </p>
 
 <!--
