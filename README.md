@@ -22,10 +22,15 @@
   AI for Biomedicine · Agent Systems · multimodal Virtual Cell · Phenotypic Drug Discovery
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boom5426&show_icons=true)
+<div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Boom5426&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=Boom5426&show_icons=true&theme=onedark" alt="GitHub Stats" />
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Boom5426&theme=onedark&row=1&column=7&margin-w=8&margin-h=8" alt="Trophy" />
+
+</div>
 <!--
 <p align="center">
   <img src="https://img.shields.io/badge/Citations-413-0b7285?style=flat-square" alt="Citations 413" />
