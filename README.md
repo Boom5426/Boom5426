@@ -31,16 +31,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Boom5426&theme=onedark&row=1&column=7&margin-w=8&margin-h=8" alt="Trophy" />
 
 </div>
-<!--
-<p align="center">
-  <img src="https://img.shields.io/badge/Citations-413-0b7285?style=flat-square" alt="Citations 413" />
-  <img src="https://img.shields.io/badge/h--index-13-0b7285?style=flat-square" alt="h-index 13" />
-  <img src="https://img.shields.io/badge/i10--index-14-0b7285?style=flat-square" alt="i10-index 14" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-25-1d4ed8?style=flat-square" alt="Public Repositories 25" />
-  <img src="https://img.shields.io/badge/Followers-39-1d4ed8?style=flat-square" alt="Followers 39" />
-  <img src="https://img.shields.io/badge/Total%20Stars-309-1d4ed8?style=flat-square" alt="Total GitHub Stars 309" />
-</p>
--->
