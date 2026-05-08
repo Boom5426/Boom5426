@@ -2,8 +2,6 @@
 
 <p align="center">
   Ph.D. student at the University of Macau
-  <br />
-  Working at the intersection of <strong>AI for Biomedicine</strong> and <strong>Agent Systems</strong>
 </p>
 
 <p align="center">
