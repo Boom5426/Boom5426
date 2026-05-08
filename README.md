@@ -24,13 +24,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=boom5426&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-profile-trophy.vercel.app/?username=boom5426&theme=onedark&row=1&column=7&margin-w=8&margin-h=8&no-frame=true"
     alt="GitHub Trophy"
   />
