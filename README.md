@@ -22,6 +22,13 @@
   AI for Biomedicine · Agent Systems · multimodal Virtual Cell · Phenotypic Drug Discovery
 </p>
 
+<!---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChenLiu-1996&show_icons=true) 
+--->
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=chenliu-1996&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 <p align="center">
   <img src="https://img.shields.io/badge/Citations-413-0b7285?style=flat-square" alt="Citations 413" />
