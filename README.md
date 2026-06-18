@@ -11,7 +11,7 @@
   ·
   <a href="https://orcid.org/0000-0003-0608-1502">ORCID</a>
   ·
-  <a href="mailto:yc47955@um.edu.mo">Email</a>
+  <a href="mailto:19919920960@163.com">Email</a>
   ·
   <a href="./WeChat.png">WeChat</a>
 </p>
