@@ -20,10 +20,11 @@
   AI for Biomedicine · Agent Systems · multimodal Virtual Cell · Phenotypic Drug Discovery
 </p>
 
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=boom5426&show_icons=true&theme=onedark&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <a href="https://github.com/boom5426">
+    <img src="https://img.shields.io/github/followers/boom5426?label=GitHub%20Followers&style=flat-square" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/boom5426?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-GitHub-181717?style=flat-square&logo=github" alt="GitHub repositories" />
+  </a>
 </p>
