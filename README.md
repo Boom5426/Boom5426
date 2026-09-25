@@ -1,7 +1,6 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,45:0B6E99,100:24B6A6&height=160&section=header&text=Bo%20Li%20%7C%20%E6%9D%8E%E6%B3%A2&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 </p>
-
 <div align="center">
 
 **Ph.D. Researcher in AI for Biology**  
