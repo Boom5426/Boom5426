@@ -15,16 +15,12 @@ University of Macau · Visiting Researcher at National University of Singapore
 <a href="mailto:19919920960@163.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="./WeChat.png"><img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" /></a>
 
-<br/><br/>
+<br/>
 
 🧬 **Virtual Cells** &nbsp;·&nbsp;
 🧫 **Single-cell Perturbation** &nbsp;·&nbsp;
 💊 **Intervention Design** &nbsp;·&nbsp;
 🖼️ **Multimodal Biology** &nbsp;·&nbsp;
 🤖 **Scientific Agents**
-
-<br/><br/>
-
-<sub>Publications, projects, research experience, and more → <a href="https://boom5426.github.io/"><b>boom5426.github.io</b></a></sub>
 
 </div>
