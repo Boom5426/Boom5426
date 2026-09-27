@@ -30,7 +30,7 @@ jobs:
             -o /tmp/research_program_hero.webp
 
           # Preserve the central scientific flow while reducing vertical height.
-          magick /tmp/research_program_hero.webp \
+          convert /tmp/research_program_hero.webp \
             -gravity center \
             -crop 1916x500+0+0 +repage \
             -resize 1600x418 \
