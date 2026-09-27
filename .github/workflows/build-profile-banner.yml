@@ -1,0 +1,49 @@
+name: Build profile banner
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/build-profile-banner.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y imagemagick
+
+      - name: Build wide banner from HD artwork
+        run: |
+          mkdir -p assets
+          curl -L --fail --retry 3 \
+            https://raw.githubusercontent.com/Boom5426/Boom5426.github.io/main/images/research_program_hero.webp \
+            -o /tmp/research_program_hero.webp
+
+          # Preserve the central scientific flow while reducing vertical height.
+          magick /tmp/research_program_hero.webp \
+            -gravity center \
+            -crop 1916x500+0+0 +repage \
+            -resize 1600x418 \
+            -quality 88 \
+            assets/research_program_banner.webp
+
+          identify assets/research_program_banner.webp
+
+      - name: Commit banner and remove one-off workflow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/build-profile-banner.yml
+          git add assets/research_program_banner.webp
+          git commit -m "Add HD research profile banner"
+          git push
