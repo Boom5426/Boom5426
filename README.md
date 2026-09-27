@@ -1,19 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/research_program_banner.webp" alt="Bo Li research program: from multimodal biological measurements to virtual-cell modeling and experimental decisions" />
-</p>
-
-<h1 align="center">Bo Li | 李波</h1>
-
-<p align="center">
-  <strong>From Biological Measurements to Experimental Decisions</strong>
-</p>
-
-<p align="center">
-  I develop decision-centric AI methods connecting multimodal biological measurements, virtual-cell modeling, and intervention design.
-</p>
-
-<p align="center">
-  Ph.D. Student at <strong>University of Macau</strong> · Visiting Student at <strong>National University of Singapore</strong>
+  <img width="100%" src="./assets/profile_header.webp" alt="Bo Li | 李波 — From Multimodal Virtual Cells to Experimental Decisions" />
 </p>
 
 <p align="center">
