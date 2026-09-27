@@ -12,7 +12,7 @@
 
 <p align="center">
   🧬 <strong>Virtual Cells</strong> &nbsp;·&nbsp;
-  🔬 <strong>Measurement-aware Evaluation</strong> &nbsp;·&nbsp;
+  🔬 <strong>Perturbation Modeling</strong> &nbsp;·&nbsp;
   💊 <strong>Intervention Design</strong> &nbsp;·&nbsp;
   🖼️ <strong>Multimodal Biology</strong>
 </p>
