@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  🧬 <strong>Virtual Cells</strong> &nbsp;·&nbsp;
+  🧬 <strong>Multimodal Virtual Cells</strong> &nbsp;·&nbsp;
   🔬 <strong>Perturbation Modeling</strong> &nbsp;·&nbsp;
-  💊 <strong>Intervention Design</strong> &nbsp;·&nbsp;
-  🖼️ <strong>Multimodal Biology</strong>
+  💊 <strong>Intervention Design</strong>
 </p>
